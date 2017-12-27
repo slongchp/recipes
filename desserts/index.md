@@ -3,9 +3,9 @@
 
 ## family recipes
 - angel pie
-- [apple crisp](template.md)
+- [apple crisp] (template.md)
 - brownie pie
-- chipless wonders
+- [chipless wonders](chipless-wonders.md)
 - fudge brownie pie
 - fudge walnut pie
 - ginger cremes
