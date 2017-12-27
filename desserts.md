@@ -2,7 +2,7 @@
 
 ## family recipes
 - angel pie
-- apple crisp
+- [apple crisp](template.md)
 - brownie pie
 - chipless wonders
 - fudge brownie pie
