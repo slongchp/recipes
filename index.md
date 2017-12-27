@@ -1,3 +1,3 @@
 ## Recipes
 
-[desserts] (desserts.md)
+[desserts](desserts.md)
