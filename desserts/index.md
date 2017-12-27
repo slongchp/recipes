@@ -1,5 +1,5 @@
 # desserts
-[home](index.md)
+[home](../index.md)
 
 ## family recipes
 - angel pie
