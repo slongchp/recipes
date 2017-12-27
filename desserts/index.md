@@ -9,7 +9,7 @@
 - fudge brownie pie
 - fudge walnut pie
 - ginger cremes
-- holland rask french pastry
+- [holland rask french pastry](holland-rusk.md)
 - hot chocolate
 - kitty cookies
 - microwave pudding
