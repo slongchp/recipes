@@ -1,23 +1,23 @@
 # desserts
 
 ## family recipes
-angel pie
-apple crisp
-brownie pie
-chipless wonders
-fudge brownie pie
-fudge walnut pie
-ginger cremes
-holland rask french pastry
-hot chocolate
-kitty cookies
-microwave pudding
-molasses crinkles
-pecan pie bars
-pie crust
-scottish shortbread
-texas sheet cake
+- angel pie
+- apple crisp
+- brownie pie
+- chipless wonders
+- fudge brownie pie
+- fudge walnut pie
+- ginger cremes
+- holland rask french pastry
+- hot chocolate
+- kitty cookies
+- microwave pudding
+- molasses crinkles
+- pecan pie bars
+- pie crust
+- scottish shortbread
+- texas sheet cake
 
 
 ## cooks illustrated
-angel food cake
+- angel food cake
