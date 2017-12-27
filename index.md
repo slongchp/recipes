@@ -1,3 +1,5 @@
 ## Recipes
 
-[desserts](desserts.md)
+[desserts](desserts/index.md)
+
+[recipe template](template.md)
