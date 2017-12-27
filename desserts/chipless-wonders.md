@@ -1,5 +1,5 @@
 # chipless wonders
-[home](index.md)   [back](desserts.md)
+[home](index.md)   [back](desserts/index.md)
 
 ### Ingredients
 - 1 cup softened butter
